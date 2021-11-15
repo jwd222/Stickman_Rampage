@@ -92,4 +92,9 @@ public class PlayerMovement : MonoBehaviour
         facingRight = !facingRight;
         transform.Rotate(180f, 0f, 0f);
     }
+
+    private void someFunc()
+    {
+
+    }
 }
